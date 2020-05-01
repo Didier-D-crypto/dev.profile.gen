@@ -48,9 +48,7 @@ You are required to submit the following:
   <a href="https://gyazo.com/8b91ff2dc83a564bdba34c2a43d50a3e"><img src="https://i.gyazo.com/8b91ff2dc83a564bdba34c2a43d50a3e.gif" alt="Image from Gyazo" width="1600"/></a>
 
 
-* A generated PDF of your GitHub profile
-   
- ![screenshot](profilegenerator/assets)
+
 
 * The URL of the GitHub repository
    https://github.com/Didier-D-crypto/dev.profile.gen.git
