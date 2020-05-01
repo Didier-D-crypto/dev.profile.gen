@@ -1,6 +1,7 @@
 # Node.js and ES6+ Homework: Developer Profile Generator
 
-Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:
+Created a command-line application that dynamically generates a PDF profile from a GitHub username. 
+The application is invoked with the following command:
 
 ```sh
 node index.js
@@ -22,7 +23,7 @@ The PDF will be populated with the following:
 * Number of GitHub stars
 * Number of users following
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
+## Purpose
 
 ```
 AS A product manager
@@ -40,14 +41,12 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 
 
 
-## Submission on BCS
+## Keypoints
 
 You are required to submit the following:
 
 * An animated GIF demonstrating the app functionality
   <a href="https://gyazo.com/8b91ff2dc83a564bdba34c2a43d50a3e"><img src="https://i.gyazo.com/8b91ff2dc83a564bdba34c2a43d50a3e.gif" alt="Image from Gyazo" width="1600"/></a>
-
-
 
 
 * The URL of the GitHub repository
