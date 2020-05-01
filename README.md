@@ -38,31 +38,6 @@ Refer to the [design mockup](./Assets/09-NodeJS-homework-demo.pdf).
 
 When preparing a report for stakeholders, it is important to have up-to-date information about members of the development team. Rather than navigating to each team member's GitHub profile, a command-line application will allow for quick and easy generation of profiles in PDF format.
 
-## Minimum Requirements
-
-* Functional, deployed application.
-
-* GitHub repository with a unique name and a README describing project.
-
-* The application generates a PDF resume from the user provided GitHub profile.
-
-* The generated resume includes a bio image from the user's GitHub profile.
-
-* The generated resume includes the user's location and a link to their GitHub profile.
-
-* The generated resume includes the number of: public repositories, followers, GitHub stars and following count.
-
-* The background color of the generated PDF matches the color that the user provides.
-
-```
-GIVEN the developer has a GitHub profile
-
-WHEN prompted for the developer's GitHub username and favorite color
-
-THEN a PDF profile is generated
-```
-- - -
-
 
 
 ## Submission on BCS
@@ -72,8 +47,8 @@ You are required to submit the following:
 * An animated GIF demonstrating the app functionality
 
 * A generated PDF of your GitHub profile
+  ![screenshot](./2020-05-01.png)
 
 * The URL of the GitHub repository
+   https://github.com/Didier-D-crypto/dev.profile.gen.git
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
