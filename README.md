@@ -49,7 +49,8 @@ You are required to submit the following:
 
 
 * A generated PDF of your GitHub profile
-  ![screenshot]()
+   
+ ![screenshot](profilegenerator/assets)
 
 * The URL of the GitHub repository
    https://github.com/Didier-D-crypto/dev.profile.gen.git
