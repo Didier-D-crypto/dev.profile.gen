@@ -45,6 +45,7 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 You are required to submit the following:
 
 * An animated GIF demonstrating the app functionality
+  ![screenshot](./resumeprofilegenerator.final.mp4)
 
 * A generated PDF of your GitHub profile
   ![screenshot](./2020-05-01.png)
